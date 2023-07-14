@@ -1,0 +1,63 @@
+{
+
+    "id": "default id",
+    
+    "name": "project name",
+
+    "estimation": "project estimation",
+
+    "spent time": "project spent time",
+
+    "managers": [
+
+        {
+
+            "id": "user id",
+
+            "name": "user name",
+
+            "email": "email"
+
+        },
+
+        {
+
+            "id": "user id",
+
+            "name": "user name",
+
+            "email": "email"
+
+        }
+
+    ],
+
+    "resources": [
+
+        {
+
+            "id": "user id",
+
+            "name": "user name",
+
+            "email": "email",
+
+            "role": "user role"
+
+        },
+
+        {
+
+            "id": "user id",
+
+            "name": "user name",
+
+            "email": "email",
+
+            "role": "user role"
+
+        }
+
+    ]
+
+}
